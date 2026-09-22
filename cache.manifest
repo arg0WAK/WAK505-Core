@@ -1,0 +1,27 @@
+CACHE MANIFEST
+# v1.0
+
+CACHE:
+index.html
+assets/index.css
+js/utils.js
+js/syscalls.js
+js/memory.js
+js/rop.js
+js/kernel.js
+js/spoofer.js
+js/helper.js
+binaries/goldhen.bin
+binaries/Kernel-Clock.bin
+binaries/app2usb.bin
+# binaries/appcache-install.bin // This line has been commented out to provide a dump of the ApplicationCache.db file.
+binaries/backup.bin
+binaries/history-blocker.bin
+binaries/pup-decrypt.bin
+binaries/disable-updates.bin
+binaries/enable-updates.bin
+binaries/restore.bin
+binaries/rif-renamer.bin
+
+NETWORK:
+*
