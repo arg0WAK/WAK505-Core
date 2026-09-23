@@ -303,11 +303,6 @@ function i_kernelClock() {
     setTemporaryStatus("Loading Kernel Clock...");
     injectPL("binaries/Kernel-Clock.bin");
 }
-// This line has been commented out to provide a dump of the ApplicationCache.db file.
-// function i_appcacheInstall() {
-//     setTemporaryStatus("Loading AppCache Install...");
-//     injectPL("binaries/appcache-install.bin");
-// }
 
 function i_pupDecrypt() {
     setTemporaryStatus("Loading PUP Decrypt...");
