@@ -12,6 +12,7 @@ js/kernel.js
 js/spoofer.js
 js/helper.js
 binaries/goldhen.bin
+binaries/hen.bin
 binaries/Kernel-Clock.bin
 binaries/app2usb.bin
 binaries/backup.bin
