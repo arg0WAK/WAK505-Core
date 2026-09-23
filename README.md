@@ -1,7 +1,4 @@
-# WAK505-Core
-
 ![WAK505-Core Injection Page](https://arg0wak.github.io/gist/images/WAK505-Core/2396814214727830.webp)
-
 
 **W.A.K.** (**W**ebKit **A**utomated **K**ernel) is a lightweight, modular, and automated WebKit/Kernel exploit host designed for PlayStation 4 firmware 5.05. 
 
