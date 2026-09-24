@@ -106,5 +106,5 @@ Credits
 *   **Exploit Chain:** [SpecterDev](https://github.com/Cryptogenic)
 *   **FW Spoofer:** [Leeful](https://github.com/Leeful)
 *   **GoldHEN:** [SiSTRo](https://github.com/SiSTR0)
-*   **HEN:** [SiSTRo](https://github.com/Scene-Collective)
+*   **HEN:** [SceneCollective](https://github.com/Scene-Collective)
 *   **Modular Architecture, Implementation & UI:** [arg0WAK](https://github.com/arg0WAK)
