@@ -99,8 +99,7 @@ If you prefer not to modify your network DNS settings, you can launch the host d
 3.  Allow the Application Cache (AppCache) to reach 100%.
 4.  Once cached, close and reopen the browser; the exploit can now run entirely offline.
 
-Credits
--------
+## Credits
 
 *   **Core Bug:** [qwertyoruiopz](https://twitter.com/qwertyoruiopz)
 *   **Exploit Chain:** [SpecterDev](https://github.com/Cryptogenic)
@@ -108,3 +107,13 @@ Credits
 *   **GoldHEN:** [SiSTRo](https://github.com/SiSTR0)
 *   **HEN:** [SceneCollective](https://github.com/Scene-Collective)
 *   **Modular Architecture, Implementation & UI:** [arg0WAK](https://github.com/arg0WAK)
+
+## Contributing
+
+Contributions are welcome, provided they bring meaningful improvements to the project.
+
+Pull requests are reviewed manually. Submissions that are low-effort, AI-generated without meaningful review, unrelated to the project's goals, or otherwise of insufficient quality may be rejected.
+
+If you redistribute this project or publish a derivative work, comply with the GPL-3.0 license and preserve applicable copyright and license notices. Credit the original project and link to the upstream repository where reasonably possible.
+
+By submitting a contribution, you agree that your contribution is provided under the project's GPL-3.0 license.
